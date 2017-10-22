@@ -1,26 +1,27 @@
 body   {
-    background-image:url('C:/Users/lolad/Desktop/GitHub/week-4-game/assets/images/Crystal Background.jpg');
+    background-image:url('C:/Users/lolad/Desktop/GitHub/week-4-game/assets/images/background.jpg');
   
 }
 
 h1 {
     text-align: center;
-    color: #FFD700
+    color: #17202A;
 
 }
 
 h3 {
     text-align: left;
-    color: #FFD700
+    color: #17202A;
 }
 
 p {
     text-align:left;
-    color:#9ACD32;
-    font: 35px;
+    color:#FF0000;
+    font: 30px;
+    font-family: 'Forum', cursive;
 }
 .gemImage {
-    background:url('C:/Users/lolad/Desktop/GitHub/week-4-game/assets/images/Crystal Background.jpg');
+    background:url('C:/Users/lolad/Desktop/GitHub/week-4-game/assets/images/background.jpg');
     height:115px;
     width: 150px;
     padding: 10px;
