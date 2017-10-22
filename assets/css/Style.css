@@ -1,0 +1,28 @@
+body {
+    background-image:url('C:/Users/lolad/Desktop/GitHub/week-4--game/Assets/Images/Crystal Background.jpg');
+  
+}
+
+h1 {
+    text-align: center;
+    color: #FFD700
+
+}
+
+h3 {
+    text-align: left;
+    color: #FFD700
+}
+
+p {
+    text-align:left;
+    color:#9ACD32;
+    font: 35px;
+}
+.gemImage {
+    background:url('C:/Users/lolad/Desktop/GitHub/week-4--game/Assets/Images/Crystal Background.jpg');
+    height:115px;
+    width: 150px;
+    padding: 10px;
+}
+
