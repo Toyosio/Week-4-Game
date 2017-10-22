@@ -1,5 +1,5 @@
 body {
-    background-image:url('C:/Users/lolad/Desktop/GitHub/week-4--game/Assets/Images/Crystal Background.jpg');
+    background-image:url('C:/Users/lolad/Desktop/GitHub/week-4--game/assets/images/Crystal Background.jpg');
   
 }
 
@@ -20,7 +20,7 @@ p {
     font: 35px;
 }
 .gemImage {
-    background:url('C:/Users/lolad/Desktop/GitHub/week-4--game/Assets/Images/Crystal Background.jpg');
+    background:url('C:/Users/lolad/Desktop/GitHub/week-4--game/assets/images/Crystal Background.jpg');
     height:115px;
     width: 150px;
     padding: 10px;
